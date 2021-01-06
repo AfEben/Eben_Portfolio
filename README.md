@@ -15,4 +15,10 @@ In this challenge, we ask you to build a predictive model that answers the quest
 * Exploratory data analysis using Pandas, Numpy, matplotlib and Seaborn
 * Engineered features from text to numerical values
 * Dealt with missing values
-* Optimized Logistic Regression, Decision tree and Random Forest Classifier to reach the best model
+* Built and optimized Logistic Regression, Decision tree and Random Forest Classifier to reach the best predictive model
+
+
+### Some visualization
+
+
+# Project 2:
